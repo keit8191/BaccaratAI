@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\obj\Debug\netcoreapp2.1\BaccaratAI.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\obj\Debug\netcoreapp2.1\BaccaratAI.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\obj\Debug\netcoreapp2.1\BaccaratAI.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\obj\Debug\netcoreapp2.1\BaccaratAI.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\bin\Debug\netcoreapp2.1\BaccaratAI.deps.json
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\bin\Debug\netcoreapp2.1\BaccaratAI.runtimeconfig.json
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\bin\Debug\netcoreapp2.1\BaccaratAI.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\bin\Debug\netcoreapp2.1\BaccaratAI.dll
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\bin\Debug\netcoreapp2.1\BaccaratAI.pdb
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\obj\Debug\netcoreapp2.1\BaccaratAI.dll
+C:\Users\Brandon\source\repos\BaccaratAI\BaccaratAI\obj\Debug\netcoreapp2.1\BaccaratAI.pdb
